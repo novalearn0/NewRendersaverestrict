@@ -1,0 +1,16 @@
+dnspython
+dnspython==2.8.0
+flask
+flask==3.1.2
+gunicorn
+gunicorn==23.0.0
+motor
+motor==3.7.1
+psutil
+pymongo
+pymongo==4.15.3
+pyrogram==2.0.106
+python-dotenv
+python-dotenv==1.2.1
+requests
+tgcrypto==1.2.5
