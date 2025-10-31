@@ -23,7 +23,7 @@ jobs:
         id: vars
         run: |
           # 👇 Change only this line to your ZIP filename
-          echo "ZIP_FILE=Gpt-save-restricted--main-railway-premium-3.zip" >> $GITHUB_ENV
+          echo "ZIP_FILE=Render_bot_ready.zip" >> $GITHUB_ENV
 
       - name: Show detected ZIP file
         run: echo "Target ZIP is $ZIP_FILE"
